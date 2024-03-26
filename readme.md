@@ -1,1 +1,7 @@
-Computer vision is a research area focusing on interpreting visual information from digital images or videos. This course aims at understanding the principles of computer vision and its applications. The course will cover the basics of computer vision, from low-level image processing to high-level computer vision tasks such as detection, object recognition, scene reconstruction, etc. 
+🌟 Welcome to the fascinating world of Computer Vision! 🌟
+
+Ever wondered how computers can 'see' and understand the world around us, just like humans? 🤖👀🌍
+
+🔍 Dive into the exciting realm of Computer Vision, where we unravel the mysteries of interpreting visual information from digital images or videos! 📸🎥
+
+📚 Throughout our adventure, we'll delve into the fundamentals of Computer Vision, starting from the nitty-gritty of low-level image processing all the way up to mind-blowing tasks like detection, object recognition, scene reconstruction, and beyond! 💥🖼️🕵️‍♂️
